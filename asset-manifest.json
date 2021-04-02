@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/urlShortner-frontend/static/css/main.8b918f44.chunk.css",
+    "main.js": "/urlShortner-frontend/static/js/main.4846415a.chunk.js",
+    "main.js.map": "/urlShortner-frontend/static/js/main.4846415a.chunk.js.map",
+    "runtime-main.js": "/urlShortner-frontend/static/js/runtime-main.d528148c.js",
+    "runtime-main.js.map": "/urlShortner-frontend/static/js/runtime-main.d528148c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/urlShortner-frontend/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2ff08a3e.chunk.js": "/urlShortner-frontend/static/js/2.2ff08a3e.chunk.js",
+    "static/js/2.2ff08a3e.chunk.js.map": "/urlShortner-frontend/static/js/2.2ff08a3e.chunk.js.map",
+    "index.html": "/urlShortner-frontend/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/urlShortner-frontend/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8b918f44.chunk.css.map": "/urlShortner-frontend/static/css/main.8b918f44.chunk.css.map",
+    "static/js/2.2ff08a3e.chunk.js.LICENSE.txt": "/urlShortner-frontend/static/js/2.2ff08a3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d528148c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2ff08a3e.chunk.js",
+    "static/css/main.8b918f44.chunk.css",
+    "static/js/main.4846415a.chunk.js"
+  ]
+}
